@@ -20,7 +20,7 @@
 - 열 때마다 임시 폴더에 풀리느라 첫 화면까지 15초 안팎 걸려요.
 - 바탕화면이나 문서 폴더처럼 늘 두는 곳에 두고 쓰세요. 새 판으로 바뀔 때 그 자리의 파일이 바뀌어요.
 
-판마다 바뀐 점은 [릴리스](https://github.com/riedle03/ansim-worksheet/releases)에 적어요. 릴리스 화면에서는 맨 위의 `ansim-worksheet-portable.exe`만 받으면 돼요. 그 아래 Source code 두 개는 GitHub가 저절로 붙이는 저장소 묶음이라 안내 문서만 들어 있어요.
+판마다 바뀐 점은 [릴리스](https://github.com/riedle03/ansim-worksheet/releases)에 적어요. 릴리스 화면에서는 맨 위의 `ansim-worksheet-portable.exe`만 받으면 돼요. 그 아래 Source code 두 개는 GitHub가 자동으로 붙이는 저장소 묶음이라 안내 문서와 화면 사진만 들어 있어요.
 
 ## 하는 일
 
